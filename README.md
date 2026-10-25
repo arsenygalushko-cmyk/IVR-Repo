@@ -1,2 +1,2 @@
-# IVR-Repo
-HSE Lyceum IT Projects - IVR-Repo; заявка на IT проект 
+# HSE Lyceum IT Projects
+Заявка на IT проект Галушко Арсений 
